@@ -3,7 +3,7 @@
 This automation project implements specific business scenarios for the [AutomationExercise](https://www.automationexercise.com/) website using Cypress framework with complete Page Object Model (POM) structure.
 
 ## Requirements & Deliverables
-
+    
 ### ✅ Requirements Fulfilled:
 - **Framework**: Cypress automation framework
 - **Scenario 1**: Open homepage → Search for a product → Verify results appear
