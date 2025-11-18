@@ -1,0 +1,20 @@
+{
+  "name": "cypress-automation-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:headed": "cypress run --headed",
+    "cypress:run:search": "cypress run --spec 'cypress/e2e/search.cy.js'",
+    "cypress:run:cart": "cypress run --spec 'cypress/e2e/cart.cy.js'",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  }
+}
