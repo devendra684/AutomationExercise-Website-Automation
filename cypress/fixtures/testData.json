@@ -1,0 +1,4 @@
+{
+  "searchKeywords": ["Dress", "T-shirt", "Jeans"],
+  "invalidSearchKeywords": ["abc*#@", "xyz123"]
+}
